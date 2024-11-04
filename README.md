@@ -9,3 +9,4 @@
  스크래핑을 통해 검색된 종목의 정량화된 재무정보를 획득함.
  이후 데이터 가공을 통하여 Chat GPT의 Prompt로 변환함.
  GPT API를 호출 시 Few shot learning과 COT를 적용하여 분석의 정밀도와 정확성을 높임.
+ 
